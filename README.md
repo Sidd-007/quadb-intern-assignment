@@ -1,1 +1,1 @@
-"# quadb-intern" 
+# QuadB Tech Intern Assignment
